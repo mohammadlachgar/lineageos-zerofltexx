@@ -6,6 +6,7 @@ https://github.com/Exynos7420/android_device_samsung_zero-common
 Tested==> SM-G920F
 
 Note:================
+
 Tested ==> Samsung S6 (SM-G920F)
 ====================================
 
